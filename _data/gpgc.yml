@@ -4,7 +4,7 @@ use_show_action: false
 label_name: Post Comments
 label_color: ac4142
 github_application:
-  client_id: 0ef5ca17b24db4e46807
-  code_authenticator: https://ghpages-ghcomments.herokuapp.com/authenticate/
+  client_id: 458196404aea9789690b
+  code_authenticator: https://awwnb.herokuapp.com/authenticate/
   callback_url: https://awwnb.github.io/public/html/gpgc_redirect/index.html
 enable_diagnostics: true
