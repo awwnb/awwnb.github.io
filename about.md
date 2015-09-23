@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
-It's not what we make, it's what we make possible.
+一个无聊透顶的人，在美国混着。
 
 ## Focus
 
