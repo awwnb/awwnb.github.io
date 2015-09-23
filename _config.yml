@@ -7,17 +7,17 @@ relative_permalinks: true
 exclude:             [CNAME, Gemfile, README.md, LICENSE.md, scratch.md]
 unpublished:         true
 show_drafts:         false
-title:               Down to the Wire
-tagline:             Elements of LabVIEW
-description:         'A blog by <a href="https://twitter.com/JoeFriedrichsen" target="_blank">@JoeFriedrichsen</a>.'
-url:                 http://awwnb.github.io
+title:               没有国界的世界
+tagline:             A World With No Boundaries
+description:         '无聊的人用无聊的时间做的无聊的博客'
+url:                 https://awwnb.github.io
 baseurl:             ''
 
 # About/contact
 author:
-  name:              Joe Friedrichsen
-  url:               https://twitter.com/JoeFriedrichsen
-  email:             all.wired.down@gmail.com
+  name:              Winston Sicheng Wu
+  url:               https://awwnb.github.io
+  email:             winstonw@udel.edu
 
 # Custom data
 established:         2014
