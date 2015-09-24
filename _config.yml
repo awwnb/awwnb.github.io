@@ -12,9 +12,6 @@ tagline:             A World With No Boundaries
 description:         '无聊的人用无聊的时间做的无聊的博客'
 url:                 http://pixy.awwnb.org
 baseurl:             ''
-isso:
-  data_isso:         http://awwnb.org/comments/awwnb/
-  script_src:        http://awwnb.org/comments/awwnb/js/embed.min.js
 # About/contact
 author:
   name:              Winston Sicheng Wu
