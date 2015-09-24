@@ -22,3 +22,8 @@ layout: default
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+{% if site.isso.script_src %}
+  <script data-isso="{{site.isso.data_isso}}" src="{{site.isso.script_src}}"></script>
+    <section id="isso-thread"></section>
+{% endif %}
