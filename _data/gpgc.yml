@@ -5,7 +5,7 @@ use_show_action: false
 label_name: Post Comments
 label_color: 666666
 github_application:
-  client_id: 458196404aea9789690b
-  code_authenticator: https://awwnb.herokuapp.com/authenticate/
-  callback_url: http://pixy.awwnb.org/public/html/gpgc_redirect/index.html
+  client_id: 0c6149e1cf8b61ba44cc
+  code_authenticator: https://awwnb2.herokuapp.com/authenticate/
+  callback_url: https://pixy.awwnb.org/public/html/gpgc_redirect/index.html
 enable_diagnostics: true
