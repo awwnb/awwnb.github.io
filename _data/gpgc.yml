@@ -7,5 +7,5 @@ label_color: 666666
 github_application:
   client_id: 0c6149e1cf8b61ba44cc
   code_authenticator: https://awwnb2.herokuapp.com/authenticate/
-  callback_url: https://pixy.awwnb.org/public/html/gpgc_redirect/index.html
+  callback_url: http://pixy.awwnb.org/public/html/gpgc_redirect/index.html
 enable_diagnostics: true

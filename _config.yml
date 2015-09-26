@@ -10,7 +10,7 @@ show_drafts:         false
 title:               没有国界的世界
 tagline:             A World With No Boundaries
 description:         '无聊的人用无聊的时间做的无聊的博客'
-url:                 https://pixy.awwnb.org
+url:                 http://pixy.awwnb.org
 baseurl:             ''
 # About/contact
 author:
